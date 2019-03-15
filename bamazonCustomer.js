@@ -16,7 +16,7 @@ var connection = mysql.createConnection({
 
   // Your password
   
-password: "a$apfranks23", //process.env.MYSQL_PASSWORD,
+password: "", //process.env.MYSQL_PASSWORD,
   database: "Bamazon"
 });
 
